@@ -119,3 +119,12 @@ body{
     font-weight: 200;
 
 }
+footer{
+	background-color: #181818;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+footer p{
+	color: rgba(255,255,255,0.3);
+}
